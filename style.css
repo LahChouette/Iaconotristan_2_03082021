@@ -152,6 +152,25 @@ form button{
 .filtre{
     display: flex;
     padding-top: 40px;
+    align-items: center;
+}
+
+.filtre div{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    border:solid;
+}
+
+.filtre i{
+    background-color: #DEEBFF;
+    border-radius: 100%;
+    min-height: 40px;
+    min-width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0065FC;
 }
 
 .info{
