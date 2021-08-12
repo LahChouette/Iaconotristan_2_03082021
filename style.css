@@ -13,6 +13,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-size: 15px;
     margin-right: 50px;
     margin-left: 50px;
 }
@@ -99,7 +100,18 @@ main{
 }
 
 /* **********section recherche********** */
+.titrerecherche h1{
+    font-size: 20px;
+}
 
+.titrerecherche p{
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.recherche form{
+    padding-top: 20px;
+}
 /* **********section recherche********** */
 /* **********section hébergements********** */
 
