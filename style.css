@@ -110,6 +110,51 @@ main{
 }
 
 .recherche form{
+    display: flex;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.logorecherche{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #F2F2F2;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+}
+
+.logorecherche i{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.zonerechercher{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-bottom: solid #F2F2F2;
+    border-top: solid #F2F2F2;
+}
+
+form button{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: #0065FC;
+    color: white;
+}
+
+.filtre{
+    display: flex;
+    padding-top: 40px;
+}
+
+.info{
     padding-top: 20px;
 }
 /* **********section recherche********** */
