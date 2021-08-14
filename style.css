@@ -172,6 +172,11 @@ form button{
     padding-right: 15px;
     margin-right: 25px;
     font-weight: bold;
+    cursor: pointer;
+}
+
+.filtre div:hover{
+    background-color: #0065FC;
 }
 
 .filtre i{
@@ -309,6 +314,10 @@ aside article{
     box-shadow: 1px 1px 12px #555;
 }
 
+aside a:visited{
+    color:black
+}
+
 aside i{
     color: #0065FC;
 }
@@ -360,6 +369,10 @@ aside article img{
     column-gap: 30px;
     margin-bottom: 60px;
     row-gap: 30px
+}
+
+.activitésarticle a:visited{
+    color:black
 }
 
 .activitésarticle h3{
