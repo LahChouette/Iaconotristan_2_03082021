@@ -231,7 +231,7 @@ form button{
     margin-right: 40px;
 }
 
-.boite1 a{
+.afficher{
     font-weight: bold;
 }
 
@@ -348,16 +348,10 @@ aside article img{
 .popuetoile3{
     margin-top: 65px;
 }
-
-
 /* **********section hébergements********** */
 /* **********section activités********** */
 .activités{
     margin-top: 65px;
-}
-
-.boite2{
-
 }
 
 .boite2 h2{
