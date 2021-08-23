@@ -418,6 +418,7 @@ form button{
     border-right: solid 5px white;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 .populaires{
@@ -469,6 +470,7 @@ aside article img{
     width: 125px;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 .popuarticle{
@@ -556,6 +558,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 .activitésarticle2 article{
     border-radius: 25px;
@@ -571,6 +574,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 .activitésarticle3 article{
@@ -586,6 +590,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 .activitésarticle4 article{
@@ -601,6 +606,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 .activitésarticle5 article{
@@ -617,6 +623,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 .activitésarticle6 article{
@@ -632,6 +639,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 @media all and (max-width: 1024px){
