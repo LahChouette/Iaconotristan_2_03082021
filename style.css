@@ -253,15 +253,19 @@ form button{
 
 .l1:hover{
     background-color: #0065FC;
+    color: white;
 }
 .l2:hover{
     background-color: #0065FC;
+    color: white;
 }
 .l3:hover{
     background-color: #0065FC;
+    color: white;
 }
 .l4:hover{
     background-color: #0065FC;
+    color: white;
 }
 
 .filtre div{
@@ -418,7 +422,7 @@ form button{
     border-right: solid 5px white;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 .populaires{
@@ -470,7 +474,7 @@ aside article img{
     width: 125px;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 .popuarticle{
@@ -558,7 +562,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 .activitésarticle2 article{
     border-radius: 25px;
@@ -574,7 +578,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 .activitésarticle3 article{
@@ -590,7 +594,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 .activitésarticle4 article{
@@ -606,7 +610,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 .activitésarticle5 article{
@@ -623,7 +627,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 .activitésarticle6 article{
@@ -639,7 +643,7 @@ aside article img{
     width: 300px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
-    image-rendering: -webkit-optimize-contrast;
+    object-fit: cover;
 }
 
 @media all and (max-width: 1024px){
