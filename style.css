@@ -471,6 +471,7 @@ aside article img{
 }
 
 .popuarticle{
+    display: flex;
     flex-direction: column;
     margin-left: 0.8%;
 }
