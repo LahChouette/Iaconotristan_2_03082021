@@ -496,6 +496,8 @@ aside article img{
 {
     .hébergements{
         flex-direction: column;
+        margin-right: 10%;
+        margin-left: 10%;
     }
     
     .boite1{
@@ -665,6 +667,10 @@ aside article img{
     .boite2 img{
         height: 115px;
         min-width: 100%;
+    }
+    .activités{
+        margin-right: 10%;
+        margin-left: 10%;
     }
 }
 /* **********section activités********** */
