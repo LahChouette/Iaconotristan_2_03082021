@@ -1,18 +1,11 @@
-# Projet 2 Reservia
+# Reservia
+Premier projet réalisé dans le cadre de ma formation Développeur web Openclassroom. Le but était d'intégrer une maquette fournie par un designer à un site web, en utilisant les languages HTML et CSS from scratch.
 
-Transformez une maquette en site web avec HTML & CSS
+# Identité
+Reservia est une petite entreprise proposant un outil de planification de vacances. Leur site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur ambiance.
 
+# Fonctionnalités
+Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est donc un champ de saisie, dont le texte peut être édité par l’usager. En revanche, à ce stade, le bouton de recherche ne sera pas fonctionnel. Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides. Les filtres ne seront pas fonctionnels pour cette version, en revanche, il faut qu’ils changent d’apparence au survol. Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
 
 # Contraintes techniques
-
-- Adapter le site aux formats desktop et mobile en suivant les maquettes fournies. Choisir les breakpoints pour le format tablette.
-- Choisir le format d'images le plus adapté parmi ceux fournis.
-
-# Eléments requis
-
-L'intégration devra se faire sans framework ou pré-compilateur CSS.
-- Coder from scratch
-- Utiliser Flexbox ou CSS Grid.
-- Le code devra utiliser les balises sémantiques et ne doit contenir aucune erreur ni alerte au validateur W3C HTML et CSS.
-- Le site devra être compatible avec les dernières versions de Chrome et Firefox.
-- Versionner son code code avec Git et déployer la page sur GitHub ou GitLab.
+Intégralement from scratch, le site doit être codé en HTML et CSS, sans framework ni pré-processeur. Le site doit être responsive. Les icônes proviennent de la bibliothèque Font Awesome. Le code doit être validé par le W3C.
